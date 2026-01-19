@@ -1,0 +1,3 @@
+version=127-1
+version_suffix=gl0~bp1877
+git_src -b "debian/$version" "https://salsa.debian.org/utopia-team/polkit.git"
